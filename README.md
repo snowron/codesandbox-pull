@@ -1,5 +1,7 @@
 # codesandbox-pull 
 
+[Show in Vs Code marketplace](https://marketplace.visualstudio.com/items?itemName=snowronark.codesandbox-pull)
+
 It helps to pull remote public repository from codesandbox.
 
 Example: https://codesandbox.io/s/svg-maps-with-html-annotations-mkq8e
